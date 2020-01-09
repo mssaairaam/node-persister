@@ -1,5 +1,5 @@
 # node-persister
-Simple Persister from Pipe separated values to Postgre Database
+Simple Persister from Pipe separated values to Postgres Database
 
 Commands to run:
 1. Install softwares
